@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agneschintia
-- 👀 I’m interested in Data Science and Machine Learning.
+- 👀 I’m interested in Data Analytics and Business Intelligence.
 - 🌱 I’m currently learning Python, R, Tableau, and SQL.
-- 💞️ I’m looking to collaborate on everything that related to Data Science
+- 💞️ I’m looking to collaborate on everything that related to Data Analytics
 - 📫 How to reach me: hello.agnesc@gmail.com
 
 <!---
